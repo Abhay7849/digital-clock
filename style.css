@@ -1,0 +1,25 @@
+body{
+    background :linear-gradient(80deg  ,#08001f,#30197d);
+}
+
+.container{
+    border: 2px solid black;
+    width: 600px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top: 300px;
+    left: 370px;
+}
+.clock span{
+    color: rgb(38, 197, 64);
+    
+    position: relative;
+    top: 0px;
+ 
+    font-size: 150px;
+    
+}
